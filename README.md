@@ -1,9 +1,9 @@
-# Seonwook Kim
+## Seonwook Kim
 
 Security Engineer · Software Engineer
 M.S. in Information Security @ Carnegie Mellon University
 
-## Vulnerability Research
+### Vulnerability Research
 
 - Android — IPC, intents / deep links, application and system security
 - Embedded & IoT — protocol fuzzing, memory corruption, input validation
@@ -11,7 +11,7 @@ M.S. in Information Security @ Carnegie Mellon University
 - Fuzzing — AFL++ harness development, stateful fuzzing, custom mutators
 - Program Analysis — Android static analysis with SOOT / StubDroid
 
-## CVE Disclosures
+### CVE Disclosures
 
 | CVE                                                               | Project   | Vulnerability                                                           |
 | ----------------------------------------------------------------- | --------- | ----------------------------------------------------------------------- |
@@ -21,7 +21,7 @@ M.S. in Information Security @ Carnegie Mellon University
 | [CVE-2026-19387](https://www.cve.org/CVERecord?id=CVE-2026-19387) | GStreamer | IMA ADPCM decoder — heap out-of-bounds write                            |
 
 
-## Engineering
+### Engineering
 
 * Designed and operated vulnerability-analysis infrastructure spanning **7,900+ repositories**
 * Built **Java Spring** backend services and **Python** data pipelines for large-scale security analysis
@@ -29,11 +29,11 @@ M.S. in Information Security @ Carnegie Mellon University
 * Integrated security analysis engines into **GitHub CI workflows**
 
 
-## Tech
+### Tech
 
 C · C++ · Python · Java · JavaScript · Bash
 Linux · Android · Tizen · AFL++ · GDB · IDA · Docker · Git
 
-## Contact
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/kim-seonwook-7ba911157)
