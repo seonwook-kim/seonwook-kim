@@ -9,7 +9,7 @@ M.S. in Information Security @ Carnegie Mellon University
 - Embedded & IoT — protocol fuzzing, memory corruption, input validation
 - Web & Backend — authentication, access control, server-side vulnerabilities
 - Fuzzing — AFL++ harness development, stateful fuzzing, custom mutators
-- Program Analysis — Android static analysis with SOOT / StubDroid
+- Program Analysis — Android static analysis with SOOT / FlowDroid
 
 ### CVE Disclosures
 
