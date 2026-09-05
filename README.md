@@ -1,4 +1,4 @@
-## Seonwook Kim
+## Seonwook Kim (wookseon)
 
 Security Engineer · Software Engineer
 M.S. in Information Security @ Carnegie Mellon University
