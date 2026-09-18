@@ -19,6 +19,7 @@ M.S. in Information Security @ Carnegie Mellon University
 | [CVE-2026-73434](https://www.cve.org/CVERecord?id=CVE-2026-73434) | GStreamer | AVI demuxer — out-of-bounds read in video field descriptor parsing      |
 | [CVE-2026-19389](https://www.cve.org/CVERecord?id=CVE-2026-19389) | GStreamer | ASF demuxer — integer overflow/underflow leading to out-of-bounds reads |
 | [CVE-2026-19387](https://www.cve.org/CVERecord?id=CVE-2026-19387) | GStreamer | IMA ADPCM decoder — heap out-of-bounds write                            |
+| [CVE-2026-88914](https://www.cve.org/CVERecord?id=CVE-2026-88914) | GStreamer | qtdemux — integer overflow out-of-bounds read                         |
 
 
 ### Engineering
