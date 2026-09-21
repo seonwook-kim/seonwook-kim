@@ -37,4 +37,4 @@ Linux · Android · Tizen · AFL++ · GDB · IDA · Docker · Git
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/kim-seonwook-7ba911157)
+[LinkedIn](https://www.linkedin.com/in/seonwook-kim)
